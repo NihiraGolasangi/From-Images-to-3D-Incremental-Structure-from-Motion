@@ -165,9 +165,7 @@ Understanding incremental SFM directly prepares you for SLAM papers and implemen
 ## Limitations & Future Work
 
 **Current limitations:**
-- No bundle adjustment (errors accumulate)
-- Simple track management (could miss correspondences)
-- No loop closure
+
 
 **Possible extensions:**
 - Add bundle adjustment using `scipy.optimize` or Ceres
