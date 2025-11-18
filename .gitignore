@@ -48,10 +48,7 @@ data/*
 # Keep camera files (small, useful for reference)
 # !data/rathaus/*.camera
 
-# Output files (generated, not source)
-outputs/*.png
-outputs/*.ply
-outputs/*.jpg
+
 
 # Keep output directory structure
 !outputs/.gitkeep
