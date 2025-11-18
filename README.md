@@ -53,11 +53,6 @@ Line 8:     t vector (3×1 translation)
 
 Projection formula: `x = K[R^T | -R^T t] X`
 
-### Reference
-
-When using this dataset, cite:
-> C. Strecha, W. von Hansen, L. Van Gool, P. Fua, U. Thoennessen. "On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery." CVPR 2008.
-
 ## Pipeline Overview
 
 ### Step 1: Two-View Initialization (Views 0 & 1)
